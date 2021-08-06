@@ -49,7 +49,6 @@
 //         console.log('Listing out all notes')
 //     }
 // })
-
 // // Create read command
 // yargs.command({
 //     command: 'read',
