@@ -41,7 +41,6 @@
 //         notes.removeNote(argv.title)
 //     }
 // })
-
 // // Create list command
 // yargs.command({
 //     command: 'list',
